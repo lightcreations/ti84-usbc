@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "ti84_mini_usb")(type "KiCad")(uri "${KIPRJMOD}/ti84_mini_usb")(options "")(descr ""))
-  (lib (name "usb4105_modify")(type "KiCad")(uri "${KIPRJMOD}/usb4105_modify.pretty")(options "")(descr ""))
-)

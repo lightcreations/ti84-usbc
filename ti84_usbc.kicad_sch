@@ -984,7 +984,7 @@
     (property "Value" "TUSB320" (at 146.9741 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DFN_QFN:Texas_X2QFN-12_1.6x1.6mm_P0.4mm" (at 149.86 133.35 0)
+    (property "Footprint" "ti84_mini_usb:IC_TUSB320IRWBR" (at 149.86 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tusb320.pdf" (at 144.78 119.38 0)

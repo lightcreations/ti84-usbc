@@ -1,0 +1,18 @@
+COMPONENTS_DATA_START
+### Component Category Value Comment
+### v = value, p = package, c = manufacturer code, r = rating, m = misc, s = status
+###
+TP1 p TestPoint_Pad_1.0x1.0mm
+TP1 v BATT
+C1 p C_0402_1005Metric
+C1 v 0.1uF
+J1 p USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal
+J1 v USB_C_Receptacle_USB2.0
+U1 p IC_TUSB320IRWBR
+U1 v TUSB320
+R1 p R_0402_1005Metric
+R1 v 900k
+J2 p ti84_mini_usb
+J2 v USB_OTG
+COMPONENTS_DATA_END
+### END

@@ -54,28 +54,6 @@ PART_NAME J1
    PART_ORIGIN 0.000 0.000
    PART_MOUNT SMD
 
-   PIN_ID J1-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 7287.0 192.0
-      PIN_RADIUS 15.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
-   PIN_ID J1-
-      PIN_NUMBER 
-      PIN_NAME 
-      PIN_SIDE T
-      PIN_ORIGIN 7515.0 192.0
-      PIN_RADIUS 15.0
-      PIN_NET 
-      PIN_TYPE 2
-      PIN_COMMENT
-   PIN_END
-
    PIN_ID J1-A1
       PIN_NUMBER A1
       PIN_NAME A1
@@ -270,6 +248,28 @@ PART_NAME J1
       PIN_ORIGIN 7571.0 212.0
       PIN_RADIUS 24.0
       PIN_NET /SHIELD
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J1-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 7287.0 192.0
+      PIN_RADIUS 15.0
+      PIN_NET 
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J1-
+      PIN_NUMBER 
+      PIN_NAME 
+      PIN_SIDE T
+      PIN_ORIGIN 7515.0 192.0
+      PIN_RADIUS 15.0
+      PIN_NET 
       PIN_TYPE 2
       PIN_COMMENT
    PIN_END
